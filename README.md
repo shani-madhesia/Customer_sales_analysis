@@ -1,0 +1,1 @@
+A complete data analytics project built using Python and Pandas to analyze customer purchasing behavior, identify top-performing customers, and generate professional sales insights through visual dashboards.
